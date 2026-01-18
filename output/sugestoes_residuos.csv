@@ -1,0 +1,5 @@
+id,nome_residuo,classe,composto_alvo,sugestao
+1,Casca de laranja,casca,flavonoides,"Extração com etanol 70% + ultrassom (40 kHz, 30 min)"
+2,Bagaço de uva,bagaço,proantocianidinas,"Extração com acetona 70% + agitação (25°C, 1h)"
+3,Caroço de açaí,caroço,fenólicos,"Extração com metanol 80% + refluxo (60°C, 20 min)"
+4,Polpa de maracujá,polpa,carotenoides,Extração com hexano:acetona (1:1) sob N2
